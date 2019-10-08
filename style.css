@@ -1,0 +1,12 @@
+.breed{
+   border-radius:15px;
+   width:14%;
+}
+label{
+    border-radius:15px;
+}
+button{border-radius:15px; width:14%;
+}
+
+textarea {border: solid red ;
+}
